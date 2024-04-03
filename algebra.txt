@@ -1,2 +1,6 @@
 Feature A
+<<<<<<< HEAD
 feature B
+=======
+Feature C
+>>>>>>> featureC
